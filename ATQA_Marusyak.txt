@@ -1,0 +1,4 @@
+Василь Марусяк - What is GIT?
+Git is a control versin system. If you want to undetstands this you have to imagine a cast. if you make some changes in 
+this cast some program remembers the previous state of the cast. And this process proceeds every time when you attract with 
+this program.
